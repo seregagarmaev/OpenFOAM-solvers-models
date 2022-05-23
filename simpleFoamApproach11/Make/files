@@ -1,0 +1,3 @@
+simpleFoamApproach11.C
+
+EXE = $(FOAM_APPBIN)/simpleFoamApproach11
